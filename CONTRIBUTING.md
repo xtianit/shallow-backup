@@ -9,3 +9,5 @@
 4. Update README, if necessary.
 5. Update CONTRIBUTORS.md.
 6. Open a Pull Request with a comprehensive description of changes.
+
+##Fix bug
